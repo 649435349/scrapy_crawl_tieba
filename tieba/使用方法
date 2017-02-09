@@ -1,0 +1,10 @@
+输入
+scrapy crawl 爬虫名 -a tieba_name=***
+
+贴吧名字不要加上‘吧’
+爬虫有
+tieba_member_detail_spider
+tieba_fahuitiederen_detail_spider
+tieba_member_followed_tieba_spider
+tieba_fahuitiederen_detail_followed_tieba_spider
+tieba_information_spider
