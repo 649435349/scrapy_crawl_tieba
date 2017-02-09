@@ -11,3 +11,6 @@ tieba_fahuitiederen_detail_spider
 tieba_member_followed_tieba_spider
 tieba_fahuitiederen_detail_followed_tieba_spider
 tieba_information_spider
+mysql库信息在sql文件夹，并且结果字符串都用了加密。
+
+over~
